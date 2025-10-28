@@ -643,3 +643,14 @@
       prob: 0.90
     - id: SolarPanelDamageVariationPass
     - id: SolarPanelEmptyVariationPass
+#Ratbite
+- type: entity
+  id: CalmerAntagStationScheduler #used for SqueakRat
+  parent: BaseGameRule
+  components:
+  - type: BasicStationEventScheduler
+    scheduledGameRules: !type:NestedSelector
+      tableId: CalmerAntagTable
+    minMaxEventTiming:
+      min: 300
+      max: 900

@@ -12,4 +12,5 @@
   rules:
     - PermaBrig # Needed
     - BasicRoundstartVariation
-    - LavalandStormScheduler # Lavaland Change
+    - LavalandStormScheduler
+    - CalmerAntagStationScheduler
