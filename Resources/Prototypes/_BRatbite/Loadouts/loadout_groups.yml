@@ -89,6 +89,13 @@
   loadouts:
   - MedGuardInsideJumpsuit
 
+- type: loadoutGroup
+  id: MedOrderlyHeals
+  name: Medical Kit
+  maxLimit: 1
+  loadouts:
+  -
+
 # SciGuard
 
 - type: loadoutGroup

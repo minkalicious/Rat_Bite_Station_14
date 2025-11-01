@@ -5,6 +5,9 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitMedGuard
 
+- type: loadout
+  id:
+
 # Cargo Guard
 
 - type: loadout
