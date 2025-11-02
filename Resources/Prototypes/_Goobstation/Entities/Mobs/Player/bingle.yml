@@ -97,14 +97,20 @@
   - type: Speech
     speechVerb: Bingle
     speechSounds: Slime
-  - type: ReplacementAccent # prevent talking
-    accent: bingle
+  - type: LanguageSpeaker 
+  - type: LanguageKnowledge 
+    speaks:
+    - Bingle
+    understands:
+    - Bingle
+  # - type: ReplacementAccent
+  #   accent: bingle
   - type: CollectiveMind
     defaultChannel: Binglemind
     respectAccents: true
     channels:
     - Binglemind
-  - type: PassiveDamage #passive Healing
+  - type: PassiveDamage #passive healing
     allowedStates:
     - Alive
     damage:

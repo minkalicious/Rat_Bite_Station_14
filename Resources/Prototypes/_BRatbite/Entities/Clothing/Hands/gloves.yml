@@ -6,7 +6,7 @@
   description: A pair of combat gloves outfitted to deliver a highly localized EMP on contact
   components:
   - type: Sprite
-    sprite: _BRatBite/Clothing/Hands/Gloves/RSOShockGloves.rsi
+    sprite: _BRatBites/Clothing/Hands/Gloves/RSOShockGloves.rsi
   - type: Clothing
     sprite: Clothing/Hands/Gloves/combat.rsi
   - type: Insulated
@@ -36,7 +36,7 @@
   - type: SummonedItemDespawn
   - type: EmpOnUse
   - type: Sprite
-    sprite: _BRatBite/CharEffects/shock_glove.rsi
+    sprite: _BRatBites/CharEffects/shock_glove.rsi
     state: icon
   - type: Appearance
   - type: PointLight

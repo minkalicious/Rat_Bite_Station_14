@@ -181,7 +181,7 @@
     - secret
     - sekrit
   name: secret-title
-  showInVote: false # Goob - Game Director
+  showInVote: true #Ratbite, secret is the most balanced mode because it doesnt use shitty values :sob:
   description: secret-description
   rules:
     - PermaBrig # RatBite - Multi-Round brig system

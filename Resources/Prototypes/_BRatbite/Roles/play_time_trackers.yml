@@ -4,5 +4,14 @@
 - type: playTimeTracker
   id: JobRedsightOverseer
 
+- type: playTimeTracker
+  id: JobMedOrderly
 
+- type: playTimeTracker
+  id: JobScicurityGuard
 
+- type: playTimeTracker
+  id: JobCargoInsurance
+
+- type: playTimeTracker
+  id: JobEngiSentry

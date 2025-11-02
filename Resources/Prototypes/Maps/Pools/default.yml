@@ -59,8 +59,8 @@
   - Core
  # - Fland
  # - Gate Goobstation - My name is Walter Hartwell White, I live at 2308 Negra alloya line albequrque new mexico.
- # - Loop
-  #- Marathon
+  - Loop
+  - Marathon
  # - Meta
  # - Oasis
   - Omega
@@ -70,9 +70,9 @@
   - Reach
 #  - Train # Goobstation - all my friends hate train
   - FlandHighPop
- # - OasisHighPop
+  - OasisHighPop
  # - Barratry # Goobstation - Re-add barratry
- # - Kettle # Goobstation - Re-add kettle (before it was gemini!)
+  - Kettle # Goobstation - Re-add kettle (before it was gemini!)
 #  - Submarine # goobstation - kill yourse
 #  - Leonid # Goobstation - for goob by goob
  # - Delta # Goobstation - ported from Corvax

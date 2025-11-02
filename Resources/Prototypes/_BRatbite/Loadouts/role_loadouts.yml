@@ -87,7 +87,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-
+# RSO Loadouts
 - type: roleLoadout
   id: JobRedsightOverseer
   groups:
@@ -101,3 +101,80 @@
   - GroupSpeciesBreathTool
   - SurvivalSecurity
 
+# DeptGuard Loadouts
+
+- type: roleLoadout
+  id: JobMedOrderly
+  groups:
+  - DeptGuardHead
+  - MedOrderlyJumpsuit
+  - MedicalMask
+  - MedicalGloves
+  - MedicalBackpack
+  - SecurityMelee
+  - DeptGuardOuterClothing
+  - SecurityBelt
+  - SecurityShoes
+  - Trinkets
+  - Animals
+  - GroupSpeciesBreathToolMedical
+  - SurvivalExtended
+  - MedicalDoctorEnvirohelm
+  - MedicalDoctorEnvirosuit
+  - MedicalDoctorEnvirogloves
+
+- type: roleLoadout
+  id: JobScicurityGuard
+  groups:
+  - DeptGuardHead
+  - SciguardJumpsuit
+  - ScientistNeck
+  - ScientistBackpack
+  - SecurityMelee
+  - ScientistGloves
+  - DeptGuardOuterClothing
+  - SecurityBelt
+  - SecurityShoes
+  - Trinkets
+  - Animals
+  - GroupSpeciesBreathTool
+  - SurvivalExtended
+  - ScientistEnvirohelm
+  - ScientistEnvirosuit
+  - ScientistEnvirogloves
+
+- type: roleLoadout
+  id: JobCargoInsurance
+  groups:
+  - DeptGuardHead
+  - CargoInsuranceJumpsuit
+  - CargoTechnicianBackpack
+  - SecurityMelee
+  - DeptGuardOuterClothing
+  - SecurityBelt
+  - SecurityShoes
+  - Trinkets
+  - Animals
+  - GroupSpeciesBreathTool
+  - SurvivalExtended
+  - CargoTechnicianEnvirohelm
+  - CargoTechnicianEnvirosuit
+  - CargoTechnicianEnvirogloves
+
+- type: roleLoadout
+  id: JobEngiSentry
+  groups:
+  - DeptGuardHead
+  - EngiguardJumpsuit
+  - StationEngineerBackpack
+  - SecurityMelee
+  - DeptGuardOuterClothing
+  - SecurityBelt
+  - SecurityShoes
+  - Trinkets
+  - Animals
+  - GroupSpeciesBreathTool
+  - SurvivalExtended
+  - StationEngineerEnvirohelm
+  - StationEngineerEnvirosuit
+  - StationEngineerEnvirogloves

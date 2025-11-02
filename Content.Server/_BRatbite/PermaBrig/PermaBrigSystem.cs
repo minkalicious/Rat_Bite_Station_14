@@ -74,6 +74,7 @@ public sealed class PermaBrigSystem : GameRuleSystem<PermaBrigComponent>
             if (_permaBrigManager.GetBrigSentence(session.UserId) == 0)
                 continue;
             PermaIndividuals.Add(session);
+            _permaBrigManager.RemoveBrigSentence(session.UserId, 1);
             _sawmill.Info($"Player intercepted for perma: {session}");
         }
 
@@ -100,6 +101,7 @@ public sealed class PermaBrigSystem : GameRuleSystem<PermaBrigComponent>
             return;
 
         PermaIndividuals.Add(ev.Player);
+        _permaBrigManager.RemoveBrigSentence(ev.Player.UserId, 1);
 
         SpawnPrisonerPlayer(ev.Player);
 

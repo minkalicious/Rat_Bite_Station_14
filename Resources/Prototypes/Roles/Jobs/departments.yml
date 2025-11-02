@@ -106,6 +106,7 @@
   color: "#A46106"
   roles:
   - CargoTechnician
+  - CargoInsurance #Ratbite
   - Quartermaster
   - SalvageSpecialist
 
@@ -160,7 +161,7 @@
   - SpecialOperationsOfficer
   - Diplomat
   - GovernmentMan # Goobstation - End
-  - RedsightOverseer # Ratbite - Start
+  - RedsightOverseer # Ratbite
   editorHidden: true
   weight: 120
 
@@ -202,6 +203,7 @@
   roles:
   - AtmosphericTechnician
   - ChiefEngineer
+  - EngiSentry #Ratbite
   - StationEngineer
   - TechnicalAssistant
 
@@ -213,6 +215,7 @@
   roles:
   - Chemist
   - ChiefMedicalOfficer
+  - MedOrderly #Ratbite
   - MedicalDoctor
   - MedicalIntern
   - Psychologist
@@ -240,6 +243,7 @@
   color: "#D381C9"
   roles:
   - ResearchDirector
+  - ScicurityGuard # Ratbite
   - Scientist
   - ResearchAssistant
 

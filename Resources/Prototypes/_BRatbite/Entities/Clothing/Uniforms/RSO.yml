@@ -5,6 +5,6 @@
   description: A lightly gilded but modest command variant of the standard gray Csec jumpsuit. RSO standard.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Uniforms/rso.rsi
+    sprite: _BRatBites/Clothing/Uniforms/rso.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Uniforms/rso.rsi
+    sprite: _BRatBites/Clothing/Uniforms/rso.rsi

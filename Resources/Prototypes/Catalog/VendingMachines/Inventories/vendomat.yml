@@ -29,6 +29,14 @@
     MatterBinStockPart: 4
     CapacitorStockPart: 4
     MicroManipulatorStockPart: 4
+    SheetSteel10: 1 #Ratbite
+    SheetGlass10: 1 #Ratbite
+    SheetPlastic10: 1 #Ratbite
+    SoapNT: 1 #Ratbite
   contrabandInventory:
     ProximitySensor: 1
     LeftArmBorg: 1
+    BoxEncryptionKeyEngineering: 1 #Oops, someone left this in the vend! Ratbite
+  emaggedInventory: #Everything below is Ratbite
+    ClothingUniformJumpsuitMilitaryEngineering: 1
+    ToolboxGolden: 1

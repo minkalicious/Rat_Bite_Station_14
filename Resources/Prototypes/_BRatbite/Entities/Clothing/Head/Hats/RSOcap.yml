@@ -5,13 +5,13 @@
   description: A durathread cap worn by redsight overseers that represents spacelaw on station (poetically speaking)
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Head/Hats/RSOcap.rsi
+    sprite: _BRatBites/Clothing/Head/Hats/RSOcap.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Head/Hats/RSOcap.rsi
+    sprite: _BRatBites/Clothing/Head/Hats/RSOcap.rsi
   - type: Tag
     tags:
     - ClothMade
-    - WhitelistChameleon 
+    - WhitelistChameleon
   - type: Armor
     coverage:
     - Head

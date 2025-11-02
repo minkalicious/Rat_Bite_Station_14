@@ -49,5 +49,7 @@
   contrabandInventory:
     Multitool: 2
     ClothingBeltUtility: 3
+    WelderIndustrial: 1
+    ClothingHeadHatWelding: 2 #Ratbite
   emaggedInventory:
     ClothingHandsGlovesColorYellow: 1

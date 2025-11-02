@@ -19,6 +19,8 @@
 # SPDX-FileCopyrightText: 2025 shityaml <unalterableness@gmail.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+
+
 # RSO
 
 - type: loadoutGroup
@@ -60,3 +62,56 @@
   - RSODuffel
   - RSOMessenger
 
+# Dept Guard General
+
+- type: loadoutGroup
+  id: DeptGuardHead
+  name: Department Guard Helmet
+  maxLimit: 1
+  loadouts:
+  - SecurityHelmet
+  - SecurityHelmetAlt
+
+- type: loadoutGroup
+  id: DeptGuardOuterClothing
+  name: Department Guard Outerclothing
+  minLimit: 1
+  loadouts:
+  - ArmorVest
+  - ArmorVestSlim
+
+# Medguard
+
+- type: loadoutGroup
+  id: MedOrderlyJumpsuit
+  name: Med Orderly Jumpsuits
+  minLimit: 1
+  loadouts:
+  - MedGuardInsideJumpsuit
+
+# SciGuard
+
+- type: loadoutGroup
+  id: SciguardJumpsuit
+  name: Sci-curity Guard Jumpsuit
+  minLimit: 1
+  loadouts:
+  - SciGuardInsideJumpsuit
+
+#CargoGuard
+
+- type: loadoutGroup
+  id: CargoInsuranceJumpsuit
+  name: Cargo Insurance Jumpsuit
+  minLimit: 1
+  loadouts:
+  - CargoGuardInsideJumpsuit
+
+#EngiGuard
+
+- type: loadoutGroup
+  id: EngiguardJumpsuit
+  name: Engi Sentry Jumpsuit
+  minLimit: 1
+  loadouts:
+  - EngiGuardInsideJumpsuit

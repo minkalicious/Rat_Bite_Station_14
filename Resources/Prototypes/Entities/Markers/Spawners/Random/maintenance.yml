@@ -233,7 +233,6 @@
       children:
       - id: ClothingNeckCloakHerald
       - id: ClothingHeadHelmetTemplar
-      - id: MoblileSpeaker #Ratbite
       # Cloaks
       - !type:GroupSelector
         children:
@@ -504,6 +503,7 @@
       - id: SawImprov
       - id: HydroponicsToolMiniHoe
       - id: ClothingHandsKnuckleDusters
+      - id: Hammer #Ratbite
 
 - type: entity
   name: Maint Loot Spawner

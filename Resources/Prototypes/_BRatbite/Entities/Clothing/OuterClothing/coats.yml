@@ -5,9 +5,9 @@
   description: In it your face... Adorned...
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/OuterClothing/Coats/discoassblazer.rsi
+    sprite: _BRatBites/Clothing/OuterClothing/Coats/discoassblazer.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/OuterClothing/Coats/discoassblazer.rsi
+    sprite: _BRatBites/Clothing/OuterClothing/Coats/discoassblazer.rsi
   - type: StorageFill
     contents:
     - id: SmokingPipeFilledTobacco

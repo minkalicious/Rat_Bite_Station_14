@@ -5,8 +5,8 @@
   description: With the Expression.
   components:
   - type: Sprite
-    sprite: _BRatbite/Clothing/Shoes/Boots/snakeskin.rsi
+    sprite: _BRatBites/Clothing/Shoes/Boots/snakeskin.rsi
   - type: Clothing
-    sprite: _BRatbite/Clothing/Shoes/Boots/snakeskin.rsi
+    sprite: _BRatBites/Clothing/Shoes/Boots/snakeskin.rsi
   - type: ClothingSlowOnDamageModifier
     modifier: 0.5

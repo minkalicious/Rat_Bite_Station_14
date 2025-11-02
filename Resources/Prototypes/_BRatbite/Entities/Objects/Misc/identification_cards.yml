@@ -15,3 +15,52 @@
     tags:
     - CentralCommand
     - RedsightOverseer
+
+- type: entity
+  parent: IDCardStandard
+  id: MedicalWatchIDCard
+  name: medical orderly ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idmedicaldoctor
+  - type: PresetIdCard
+    job: MedOrderly
+
+
+- type: entity
+  parent: IDCardStandard
+  id: SciWatchIDCard
+  name: scicurity guard ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idscientist
+  - type: PresetIdCard
+    job: ScicurityGuard
+
+- type: entity
+  parent: IDCardStandard
+  id: CargoWatchIDCard
+  name: cargo insurance ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idcargotechnician
+  - type: PresetIdCard
+    job: CargoInsurance
+
+- type: entity
+  parent: IDCardStandard
+  id: EngineeringWatchIDCard
+  name: engi sentry ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idstationengineer
+  - type: PresetIdCard
+    job: EngiSentry
