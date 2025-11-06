@@ -121,10 +121,6 @@
     weight: 3
     reagents:
     - Ephedrine
-  - quantity: 10
-    weight: 1
-    reagents:
-    - Romerol #Ratbite, shroomzeds are real...
   - quantity: 15
     weight: 1
     reagents:
