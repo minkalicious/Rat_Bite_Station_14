@@ -5,7 +5,7 @@ selectable-set-security-EP12-name = EP-12 Energy Pistol kit
 selectable-set-security-EP12-description = As part of a nanotransen way to reduce steel usage and avoid wasteage from cartridges, this energy pistol is meant to be a direct alternative to the classic mk58 that everyone is comfortable with. Come with 2 extra battery magazines.
 
 selectable-set-security-PEW1-name = PEW-1 Energy Pistol kit
-selectable-set-security-PEW1-description = Personal Energy Weapon or PEW is an energy with trigger lock that prevent unauthorized usage of the weapon. Unfortunately due to trigger lock design, this gun damage output is slightly lower than regular energy weapon.
+selectable-set-security-PEW1-description = Personal Energy Weapon or PEW is an energy pistol with a trigger lock that prevents unauthorized usage of the weapon. Unfortunately due to a flaw in trigger lock design, this gun's damage output is slightly lower than regular energy weapons.
 
 selectable-set-security-MK58-name = MK58 Ballistic Pistol kit
 selectable-set-security-MK58-description = The good old reliable sidearm for any corporation security. It use .35 ammunition that cheaply available and mass produces by the company.
