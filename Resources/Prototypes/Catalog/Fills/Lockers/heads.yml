@@ -195,14 +195,13 @@
     - id: ClothingOuterArmorCaptainCarapace
     - id: CommsComputerCircuitboard
     - id: DoorRemoteCommand
-    - id: PrinterDocFlatpack
     - id: MedalCase
     - id: NukeDisk
     - id: PinpointerNuclear
     - id: PlushieNuke
       prob: 0.1
     - id: RubberStampCaptain
-    - id: SpaceCash1000
+    - id: SpaceCash3000 #mfw i cant buy mindshields on saltern
     - id: WeaponDisabler
     - id: ClothingEyesGlassesCommand
     - id: HeadSkeleton # A skull to accompany your skeleton crew
@@ -465,7 +464,6 @@
     - id: ComputerCargoRequestScienceFlatpack # Goobstation
     - id: RubberStampRd
     - id: WeaponPistolCHIMP
-    - id: FoodSnackLollypopWrappedCognizine
     - id: EncryptionKeyBinary # RATBITE
     - id: AnomalyLocator # GoobStation - adding anomaly locator to the RD locker to reduce the amount of anoms that crit
     - id: CigarCase
@@ -527,11 +525,9 @@
     - id: ClothingOuterCoatHoSTrench
     - id: ClothingShoesBootsJack
     - id: DoorRemoteSecurity
-    - id: PrinterDocFlatpack
     - id: HoloprojectorSecurity
     - id: RubberStampHos
     - id: SecurityTechFabCircuitboard
-    - id: FoodSaladValid
     #- id: WeaponDisabler # Goobstation (Disablers in belts)
     - id: ComputerCargoRequestSecurityFlatpack # Goobstation
     - id: WantedListCartridge
@@ -611,7 +607,6 @@
   - type: StorageFill
     contents:
     - id: CaptainIDCard
-    - id: HeadResomi #go AWAY BYRRNE
     - id: WeaponRevolverDeckard
     - id: JetpackBlue
     - id: SpaceCash1000

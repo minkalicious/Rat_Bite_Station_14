@@ -26,10 +26,10 @@
     - id: WeaponDisabler
     - id: PepperSpray #Ratbites, AAA GET AWAY
     - id: BriefcaseBrownFilled
+    - id: ClothingEyesGlassesCommand
     - id: BedsheetCentcom
+    - id: PrinterDocFlatpack
     - id: FoodBlackCaviar
-      prob: 0.5
-    - id: FoodRedCaviar
       prob: 0.5
     - id: CaneSheathFilledNanotrasen
     - id: HandheldFaxNanorep

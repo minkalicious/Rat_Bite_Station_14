@@ -92,6 +92,7 @@
       - id: Flash
       - id: ClothingEyesGlassesSecurity
       - id: ClothingHeadsetAltWarden # Goobstation
+      - id: PrinterDocFlatpack
       - id: ClothingHandsGlovesCombat
       - id: ClothingShoesBootsJack
       - id: ClothingOuterCoatWarden
