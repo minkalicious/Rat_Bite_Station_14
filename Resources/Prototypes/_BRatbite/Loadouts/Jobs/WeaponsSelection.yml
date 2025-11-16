@@ -9,7 +9,6 @@
         department: Security
         time: 54000 #15 hrs
 
-
 # Security Weapons
 - type: loadout
   id: SecurityMK58
@@ -23,3 +22,33 @@
     proto: RevolverUnlock
   equipment:
     pocket1: WeaponRevolverK38Master
+
+- type: loadout
+  id: SecurityEP12
+  name: EP-12 Energy Pistol
+  equipment:
+    pocket1: WeaponEnergyCellPistol
+
+# Security Ammo
+
+- type: loadout
+  id: SecurityMK58Ammo
+  storage:
+    back:
+    - MagazinePistol
+
+- type: loadout
+  id: SecurityK38Ammo
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: RevolverUnlock
+  storage:
+    back:
+    - SpeedLoaderSpecial
+
+- type: loadout
+  id: SecurityEP12Ammo
+  name: EP-12 Energy Pistol
+  storage:
+    back:
+    - EnergyMagPistolLethal

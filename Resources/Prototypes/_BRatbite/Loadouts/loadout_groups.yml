@@ -29,6 +29,17 @@
   loadouts:
   - SecurityMK58
   - SecurityK38
+  - SecurityEP12
+
+- type: loadoutGroup
+  id: SecurityAmmo
+  name: Sidearm Ammo
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - SecurityMK58Ammo
+  - SecurityK38Ammo
+  - SecurityEP12Ammo
 
 # RSO
 

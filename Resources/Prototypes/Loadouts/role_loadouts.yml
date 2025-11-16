@@ -589,6 +589,7 @@
   - HeadofSecurityJumpsuit
   - SecurityBackpack
   - SecuritySidearm #Ratbite
+  - SecurityAmmo #Ratbite
   - SecurityMelee # Goobstation
   - SecurityBelt
   - HeadofSecurityOuterClothing
@@ -611,6 +612,7 @@
   - WardenJumpsuit
   - SecurityBackpack
   - SecuritySidearm #Ratbite
+  - SecurityAmmo #Ratbite
   - SecurityMelee # Goobstation
   - SecurityNeck
   - SecurityBelt
@@ -633,6 +635,7 @@
   - SecurityJumpsuit
   - SecurityBackpack
   - SecuritySidearm #Ratbite
+  - SecurityAmmo #Ratbite
   - SecurityMelee # Goobstation
   - SecurityOuterClothing
   - SecurityShoes
