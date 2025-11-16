@@ -42,7 +42,7 @@ public sealed partial class FlightComponent : Component
     ///     Stamina drain per second when flying
     /// </summary>
     [DataField, AutoNetworkedField]
-    public float StaminaDrainRate = 13.0f;
+    public float StaminaDrainRate = 40.0f;
 
     /// <summary>
     ///     By how much do we multiply stamina recovery while flying?
@@ -75,7 +75,7 @@ public sealed partial class FlightComponent : Component
     ///     How much does this modify the weightless acceleration and speed?
     /// </summary>
     [DataField, AutoNetworkedField]
-    public float SpeedModifier = 2.0f;
+    public float SpeedModifier = 1.5f;
 
     /// <summary>
     ///     How much does this modify the weightless friction?

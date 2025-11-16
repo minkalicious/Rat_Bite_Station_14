@@ -198,13 +198,10 @@
     - id: MedalCase
     - id: NukeDisk
     - id: PinpointerNuclear
-    - id: PlushieNuke
       prob: 0.1
     - id: RubberStampCaptain
-    - id: SpaceCash3000 #mfw i cant buy mindshields on saltern
     - id: WeaponDisabler
     - id: ClothingEyesGlassesCommand
-    - id: HeadSkeleton # A skull to accompany your skeleton crew
       conditions:
       - !type:PlayerCountCondition
         max: 15
@@ -277,10 +274,11 @@
     - id: PrinterDocFlatpack
     - id: BoxID
     - id: BoxPDA
-    - id: CigarGoldCase
-      prob: 0.25
+    #- id: CigarGoldCase
+    #  prob: 0.25
       # Fuck the HoP they don't deserve fucking cigars.
       # Yes they do fuck you.
+      # Nuh uh
     - id: ClothingBackpackIan
       prob: 0.5
     - id: ClothingHeadsetAltCommand # Goobstation
