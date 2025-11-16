@@ -605,9 +605,6 @@
   id: WoodenHandle
 
 - type: Tag
-  id: WoodenHandle
-
-- type: Tag
   id: WeldingTool
 
 - type: Tag
